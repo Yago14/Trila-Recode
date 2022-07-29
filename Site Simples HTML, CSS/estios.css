@@ -4,13 +4,29 @@ body{
 h4{
     color: brown;
 }
-table{
+.menu{
+    border: 0px;
     width: 100%;
-    height: 200px;
-    text-align: center;
+    height: 100px;
     background-color: brown;
    
 }
+td{
+   text-align: center;
+}
 a{
     color: aliceblue;
+}
+img{
+    width: 200px;
+}
+t.produtos{
+    border: 0;
+    width: 100%  ;
+    height: 50px;
+    color: aliceblue;
+    
+}
+ strong{
+    color: brown;
 }
