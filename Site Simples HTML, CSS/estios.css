@@ -1,94 +1,13 @@
-
-img{
+.d-inline-block{
     width: 200px;
-   margin: auto;
-}
-
-body{
-   
-    align-items: center;
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
-    margin: 0%;
-}
-
-.categorias{
-    width: 200px;
-    position: fixed;
-    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
-   
-}
-.menu {
-    background-color: red;
     height: 100px;
-    width: 100%;
-    border: 0px;
-    margin:auto;
-    padding: 0px;   
-    display:flex;
-    align-items: center;
-    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
- 
 }
-
-
-.menu a{
+.card{
+    display: grid;
+    position: relative;
+    align-content: f;
+}
+.card img{
+    height: 70px;
     margin: auto;
-    color: aliceblue;
-    text-decoration: none;
-    font-size: large; 
-    text-align: justify;
-    font-family: sans-serif;
-    font: bold;
-    font-size: 20px;
-   
-   
-}
-
-
-.menu img{
-float: left;
-  
-}
-.produtos{
-  
-    display: flex;
-    flex-wrap: wrap;
-    width: 40%;
-    height: 40%;
-    margin: auto;
-  
-  
-   
-}
-.produtos div{
-    width: 200px;
-    height: 381px;
-    border: 0px;
-    margin: 8px;
-    padding: 0px;
-    text-align: center;
-   
- 
-}
-.produtos strong{
-    color: red;
-    margin-bottom: 20px;
-}
-
-h4{
-    color: red;
-}
-hr{
-    margin-top: px;
-    margin-bottom: px;
-
-}
-
-
-.lojas tr{
-    margin: auto;
-    text-align: center;
-    width: 100%;
-    height: 100px;
 }
