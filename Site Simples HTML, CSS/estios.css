@@ -5,9 +5,14 @@
 .card{
     display: grid;
     position: relative;
-    align-content: f;
+  
 }
 .card img{
     height: 70px;
     margin: auto;
+}
+.col.w-sm{
+    width: 200px;
+    padding: 0;
+    align-items: center;
 }
